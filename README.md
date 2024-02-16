@@ -12,5 +12,4 @@ Note: Only works for a single user. I need to find a time to extend this functio
 5. Recieve notifications for PRs events.
 
 # Demo
-![demo-ezgif com-video-to-gif-converter](https://github.com/orlandorode97/gitnotifyme/assets/34588445/66b68eae-11ca-486a-bf21-ae2946d2d3eb)
-
+![demo4](https://github.com/orlandorode97/gitnotifyme/assets/34588445/65aaf061-98ce-461d-bcbd-eba1705ca63c)
